@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+ Font family: Roboto
+ Line height: 21sp
+ (identical to box height)
+ -->
+    <!-- styles.xml -->
+    <style name="set_color">
+
+        <item name="android:textSize">
+
+        </item>
+
+        <item name="android:textColor">
+
+        </item>
+
+    </style>
+
+
+    <!-- strings.xml -->
+    <string name="set_color">
+
+
+    </string>
+
+</font-family>

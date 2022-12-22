@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:paddingLeft="30dp"
+    tools:context=".fragments.Fragment_2">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+    <View
+        android:id="@+id/rectangle_1"
+        android:layout_width="63dp"
+        android:layout_height="54dp"
+        android:layout_marginLeft="54dp"
+        android:layout_marginTop="73dp"
+        android:background="@drawable/rectangle"
+        />
+    <View
+        android:id="@+id/rectangle_2"
+        android:layout_width="67dp"
+        android:layout_height="57dp"
+        android:layout_marginLeft="146dp"
+        android:layout_marginTop="72dp"
+        android:background="@drawable/rectangle_2"
+        />
+    <View
+        android:id="@+id/rectangle_3"
+        android:layout_width="67dp"
+        android:layout_height="57dp"
+        android:layout_marginLeft="243dp"
+        android:layout_marginTop="72dp"
+        android:background="@drawable/rectangle_3"
+        />
+    <View
+        android:id="@+id/rectangle_4"
+        android:layout_width="67dp"
+        android:layout_height="57dp"
+        android:layout_marginLeft="54dp"
+        android:layout_marginTop="156dp"
+        android:background="@drawable/rectangle_4"
+        />
+    <View
+        android:id="@+id/rectangle_5"
+        android:layout_width="67dp"
+        android:layout_height="57dp"
+        android:layout_marginLeft="146dp"
+        android:layout_marginTop="156dp"
+        android:background="@drawable/rectangle_5"
+        />
+
+
+    <View
+        android:id="@+id/rectangle_6"
+        android:layout_width="67dp"
+        android:layout_height="57dp"
+        android:layout_marginLeft="243dp"
+        android:layout_marginTop="156dp"
+        android:background="@drawable/rectangle_6"
+        />
+    <View
+        android:id="@+id/rectangle_7"
+        android:layout_width="67dp"
+        android:layout_height="57dp"
+        android:layout_marginLeft="54dp"
+        android:layout_marginTop="239dp"
+        android:background="@drawable/rectangle_7"
+        />
+    <View
+        android:id="@+id/rectangle_8"
+        android:layout_width="67dp"
+        android:layout_height="57dp"
+        android:layout_marginLeft="146dp"
+        android:layout_marginTop="239dp"
+        android:background="@drawable/rectangle_8"
+        />
+    <View
+        android:id="@+id/rectangle_9"
+        android:layout_width="67dp"
+        android:layout_height="57dp"
+        android:layout_marginLeft="243dp"
+        android:layout_marginTop="239dp"
+        android:background="@drawable/rectangle_9"
+        />
+    <View
+        android:id="@+id/rectangle_10"
+        android:layout_width="67dp"
+        android:layout_height="57dp"
+        android:layout_marginLeft="54dp"
+        android:layout_marginTop="326dp"
+        android:background="@drawable/rectangle_10"
+        />
+    <View
+        android:id="@+id/rectangle_11"
+        android:layout_width="67dp"
+        android:layout_height="57dp"
+        android:layout_marginLeft="146dp"
+        android:layout_marginTop="326dp"
+        android:background="@drawable/rectangle_11"
+        />
+    <View
+        android:id="@+id/rectangle_12"
+        android:layout_width="67dp"
+        android:layout_height="57dp"
+        android:layout_marginLeft="243dp"
+        android:layout_marginTop="326dp"
+        android:background="@drawable/rectangle_12"
+        />
+
+    <Button
+        android:id="@+id/set_color"
+        android:layout_width="150dp"
+        android:layout_height="70dp"
+        android:text="Set color"
+        android:textSize="20sp"
+        android:elevation="4dp"
+        android:backgroundTint="#5E9CF9"
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="526dp"
+        android:textAllCaps="false"/>
+
+
+
+</FrameLayout>
